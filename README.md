@@ -36,19 +36,10 @@
 
 ---
 
-### 4. 💼 秋招求职与效率工具（Career & Productivity Tools）
+### 4. 💼 实用工具与旅行攻略（Productivity & Guides）
 
 | 仓库名称 | 分类 | 内容简介 | 在线体验 |
 | :--- | :---: | :--- | :---: |
 | [**yiyeqiuzhao-**](https://github.com/shiwoxiaobailong0828-maker/yiyeqiuzhao-) | `求职工作台` | **一页秋招** · 秋招投递进度看板、面试日程管理与多 Offer 并排对比工作台 | [🚀 在线打开](https://shiwoxiaobailong.me/works/qiuzhao/) |
-| [**autumn-recruit**](https://github.com/shiwoxiaobailong0828-maker/autumn-recruit) | `求职工具` | 水土保持专业秋招岗位自动采集与更新平台 | [📦 查看仓库](https://github.com/shiwoxiaobailong0828-maker/autumn-recruit) |
-| [**qiuzhiwangzhan**](https://github.com/shiwoxiaobailong0828-maker/qiuzhiwangzhan) | `求职工具` | 求职信息聚合与投递导航网站 | [🚀 在线打开](https://shiwoxiaobailong.me/qiuzhiwangzhan) |
-
----
-
-### 5. 🗺️ 旅行攻略与个人知识库（Guides & Knowledge Vault）
-
-| 仓库名称 | 分类 | 内容简介 | 在线体验 |
-| :--- | :---: | :--- | :---: |
 | [**guiyang-travel-guide**](https://github.com/shiwoxiaobailong0828-maker/guiyang-travel-guide) | `旅行攻略` | 贵阳 2 日吃住行交互式旅行指南网页 | [🗺️ 查看攻略](https://shiwoxiaobailong.me/guiyang-travel-guide/) |
 | **xiaobailong-vault** *(Private)* | `个人知识库` | 小白龙 Obsidian 知识库、提示词素材卡与自动化工作流仓库 | 🔒 私有仓库 |
